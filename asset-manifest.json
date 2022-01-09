@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/SocialCenter/static/css/main.2512c57f.chunk.css",
-    "main.js": "/SocialCenter/static/js/main.152085ac.chunk.js",
-    "main.js.map": "/SocialCenter/static/js/main.152085ac.chunk.js.map",
+    "main.js": "/SocialCenter/static/js/main.e5df3f4e.chunk.js",
+    "main.js.map": "/SocialCenter/static/js/main.e5df3f4e.chunk.js.map",
     "runtime-main.js": "/SocialCenter/static/js/runtime-main.273c232c.js",
     "runtime-main.js.map": "/SocialCenter/static/js/runtime-main.273c232c.js.map",
-    "static/js/2.2b928bb2.chunk.js": "/SocialCenter/static/js/2.2b928bb2.chunk.js",
-    "static/js/2.2b928bb2.chunk.js.map": "/SocialCenter/static/js/2.2b928bb2.chunk.js.map",
+    "static/js/2.0b44441d.chunk.js": "/SocialCenter/static/js/2.0b44441d.chunk.js",
+    "static/js/2.0b44441d.chunk.js.map": "/SocialCenter/static/js/2.0b44441d.chunk.js.map",
     "static/js/3.6a47cf25.chunk.js": "/SocialCenter/static/js/3.6a47cf25.chunk.js",
     "static/js/3.6a47cf25.chunk.js.map": "/SocialCenter/static/js/3.6a47cf25.chunk.js.map",
     "index.html": "/SocialCenter/index.html",
     "static/css/main.2512c57f.chunk.css.map": "/SocialCenter/static/css/main.2512c57f.chunk.css.map",
-    "static/js/2.2b928bb2.chunk.js.LICENSE.txt": "/SocialCenter/static/js/2.2b928bb2.chunk.js.LICENSE.txt"
+    "static/js/2.0b44441d.chunk.js.LICENSE.txt": "/SocialCenter/static/js/2.0b44441d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.273c232c.js",
-    "static/js/2.2b928bb2.chunk.js",
+    "static/js/2.0b44441d.chunk.js",
     "static/css/main.2512c57f.chunk.css",
-    "static/js/main.152085ac.chunk.js"
+    "static/js/main.e5df3f4e.chunk.js"
   ]
 }
