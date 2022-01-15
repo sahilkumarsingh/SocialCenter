@@ -5,7 +5,7 @@ export default function GiftCard(props) {
   return (
     <>
       {props.userDetailsJson.map((user, index) => (
-        <Grid container item xs={12}>
+        <Grid key={user} container item xs={6} spacing={0}>
           <Grid
             style={{
               display: "flex",
@@ -16,7 +16,7 @@ export default function GiftCard(props) {
             xs={2}
           >
             <img
-              style={{ height: "100px", borderRadius: "50%" }}
+              style={{ height: "90px", borderRadius: "50%" }}
               alt="user_image"
               src={user.avatar_url}
             ></img>
@@ -28,7 +28,7 @@ export default function GiftCard(props) {
               borderRadius: "12px",
             }}
             item
-            xs={6}
+            xs={10}
           >
             <Grid item xs={12}>
               <Typography variant="h5">Name: {user.name}</Typography>

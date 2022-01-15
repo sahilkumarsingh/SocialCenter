@@ -140,6 +140,7 @@ export default function HeadDrawer() {
               style={{ textDecoration: "none", color: "inherit" }}
               to={text}
               onClick={handleDrawerClose}
+              key={text}
             >
               <ListItem button key={text}>
                 <ListItemIcon>
