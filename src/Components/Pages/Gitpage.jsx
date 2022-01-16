@@ -23,6 +23,7 @@ export default function Gitpage() {
     setSearchUserDetails(JSON);
     //setUserDetailsJson([...userDetailsJson, JSON]);
     setLoading(false);
+    setVal("");
   }
   return (
     <div>
